@@ -3,11 +3,131 @@ Command list for bigbot
 
 
 - Support
-  - ticket create
-  - `/add <user>`
-  - etc
+  - ticket-blacklist
+  - ticket-unblacklist
+  - add
+  - supportpanel create
 - Moderation
-  - Warn
-  - Timeout
-  - etc
-  
+  - purge
+  - lock
+  - unlock
+  - slowmode
+  - timeout
+  - untimeout
+  - warn
+  - kick
+  - ban
+  - unban
+  - modlogs
+  - punishment info
+  - punishment edit
+- Server
+  - serverinfo
+  - membercount
+- Role
+  - role id
+  - role info
+  - role add
+  - role remove
+  - role create
+  - role delete
+  - role edit
+- Nickname
+  - nickname request submit
+  - nickname request accept
+  - nickname request deny
+  - nickname request disable
+  - nickname request logchannel
+- Miscellaneous
+  - botinfo
+  - ping
+- Games
+  - coinflip
+  - rps
+  - tictactoe
+- Economy
+  - inventory
+  - work
+  - nom
+  - balance
+  - daily
+  - weekly
+  - monthly
+  - pray
+  - shop
+  - item
+  - buy
+  - leaderboard
+  - share
+  - hunt
+  - fish
+  - postvideo
+  - dig
+  - minion view
+  - minion empty
+  - task all
+- Private Voice Channel
+  - privatevc invite
+  - privatevc block
+  - privatevc public
+  - privatevc transfer
+  - privatevc create
+- Music
+  - lyrics
+- User
+  - user id
+  - user info
+  - user avatar
+- Fun
+  - snipe
+  - fun animal cat
+  - fun animal dog
+  - fun animal bird
+  - fun animal fox
+  - fun animal kangaroo
+  - fun animal koalo
+  - fun animal panda
+  - fun filter blue
+  - fun filter green
+  - fun filter greyscale
+  - fun filter red
+  - fun filter blurple
+  - fun filter sepia
+  - fun filter blur
+  - fun filter brighten
+  - fun tweet
+  - fun youtube
+  - fun joke
+- Internet
+  - wikipedia
+- Giveaway
+  - giveaway create
+  - giveaway add-boost-role
+  - giveaway remove-boost-role
+  - giveaway list-boost-roles
+  - giveaway add-perm-blocked-role
+  - giveaway remove-perm-blocked-role
+- Reaction Roles
+  - reactionroles create
+- Sticky Messages
+  - stickymessage create
+  - stickymessage manage
+- Suggestions
+  - suggestion config
+- Autoroles
+  - autorole add
+  - autorole remove
+  - autorole list
+- Threads
+  - autothread config
+- Welcomer
+  - welcome channel
+  - welcome message
+  - welcome disable
+- Logging
+  - logging config
+- Server Statistics
+  - statistic channel create
+  - statistic channel remove
+  - statistic channel list
+  - statistic channel possible
